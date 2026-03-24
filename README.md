@@ -1,6 +1,6 @@
 # 🩺 Ultrason Görüntü İşleme Projesi
 
-Bu projede, ultrason görüntüleri üzerinde temel görüntü işleme algoritmaları Python kullanılarak **manuel (from scratch)** şekilde gerçekleştirilmiştir. Amaç, hazır kütüphaneler yerine algoritmaların mantığını doğrudan kodlayarak daha derin bir anlayış kazanmaktır.
+Bu projede, ultrason görüntüleri üzerinde temel görüntü işleme algoritmaları Python kullanılarak **manuel (from scratch) şekilde gerçekleştirilmiştir. Amaç, hazır kütüphaneler yerine algoritmaların mantığını doğrudan kodlayarak daha derin bir anlayış kazanmaktır.
 
 
 ## 🎯 Proje Amacı
